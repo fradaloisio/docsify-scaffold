@@ -9,7 +9,7 @@ You can visit the official documentation at  https://docsify.js.org
 # How get started?
 Just clone this repo.
 ```git
-git clone 
+git clone https://github.com/fradaloisio/docsify-scaffold.git
 ```
 
 # Why cloning this repo?
